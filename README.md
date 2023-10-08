@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-👀 I'm Abdelrahman Mohamed, a passionate student in the field of Artificial Intelligence, with a particular focus on Computer Vision and Machine Learning.
+I'm Abdelrahman Mohamed, a passionate student in the field of Artificial Intelligence, with a particular focus on Computer Vision and Machine Learning.
 
 🌱 I'm currently pursuing a Bachelor of Science degree in Artificial Intelligence at the Deggendorf Institute of Technology.
 
