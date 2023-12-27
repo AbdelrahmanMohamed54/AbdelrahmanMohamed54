@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*1fOKSM9na9IBROxm.gif" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">A passionate student in the field of Artificial Intelligence, with a particular focus on Computer Vision and Machine Learning.</h3>
 
