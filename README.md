@@ -17,7 +17,7 @@
         <li>👨‍💻 My projects: <a href="https://github.com/AbdelrahmanMohamed54">https://github.com/AbdelrahmanMohamed54</a></li>
         <li>💬 Ask me about <strong>Python, Java, HTML, CSS, React, JavaScript, Clingo ASP</strong></li>
         <li>📫 How to reach me: <strong>budimohamed572@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>I joined University at the age of 17</strong></li>
+        <li>⚡ Fun fact: <strong>Why do Java developers wear glasses? Because they can't C# (C sharp) 🤣</strong></li>
       </ul>
     </td>
     <td>
