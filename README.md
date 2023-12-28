@@ -1,4 +1,6 @@
-[![Banner](https://miro.medium.com/v2/resize:fit:786/format:webp/0*1fOKSM9na9IBROxm.gif)](https://github.com/AbdelrahmanMohamed54)
+<a href="https://github.com/AbdelrahmanMohamed54">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="Banner" style="width: 100%; ">
+</a>
 
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
