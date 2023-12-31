@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ My favorite tools
+<h3 align="center">🛠️ My favorite tools 🛠️</h3>
 
 <table>
   <tr>
