@@ -15,7 +15,7 @@
         <li>🌱 I’m currently learning <strong>Python in Machine learning</strong></li>
         <li>👯 I’m looking to collaborate on <strong>projects related to AI</strong></li>
         <li>👨‍💻 My projects: <a href="https://github.com/AbdelrahmanMohamed54">https://github.com/AbdelrahmanMohamed54</a></li>
-        <li>💬 Ask me about <strong>Python, Java, HTML, CSS, React, JavaScript, Clingo ASP</strong></li>
+        <li>💬 Ask me about <strong>Python, Java, HTML, CSS, React, JavaScript, Clingo ASP, Machine Learning, AI, Computer Vision </strong></li>
         <li>📫 How to reach me: <a href="mailto:budimohamed572@gmail.com">budimohamed572@gmail.com</a></li>
         <li>⚡ Fun fact: <strong>Why do Java developers wear glasses? Because they can't C# (C sharp) 🤣</strong></li>
       </ul>
