@@ -11,7 +11,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/AbdelrahmanMohamed54/PythonProgrammingShowcase.git">IT-BMW-Chatbot</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/AbdelrahmanMohamed54/NLP_LN.git">NLP_LN</a></li>
         <li>🌱 I’m currently learning <strong>Python in Machine learning</strong></li>
         <li>👯 I’m looking to collaborate on <strong>projects related to AI</strong></li>
         <li>👨‍💻 My projects: <a href="https://github.com/AbdelrahmanMohamed54">https://github.com/AbdelrahmanMohamed54</a></li>
