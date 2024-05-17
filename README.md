@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/abdelrahman-mohamed-794b512a6" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdelrahman-mohamed-794b512a6" />
   </a>
-  <a href="mailto:budimohamed572@gmail.com">
+  <a href="mailto:abdelrahman.mohamed2505@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://profile.indeed.com/">
