@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-<h3 align="center">A passionate student in the field of Artificial Intelligence, with a particular focus on Computer Vision and Machine Learning.</h3>
+<h3 align="center">A passionate Engineer in the field of Artificial Intelligence, with a particular focus on NLP, Quantum computing & Machine Learning.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmohamed54&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmohamed54" /> </p>
 
@@ -11,12 +11,12 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/AbdelrahmanMohamed54/SIM-AI">Sim-AI</a></li>
-        <li>🌱 I’m currently learning <strong>NLP Specialisation</strong></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/AbdelrahmanMohamed54/SimAI">Sim.AI</a></li>
+        <li>🌱 I’m currently learning <strong>NLP Specialisation course by Deeplearning.ai</strong></li>
         <li>👯 I’m looking to collaborate on <strong>projects related to AI</strong></li>
         <li>👨‍💻 My projects: <a href="https://github.com/AbdelrahmanMohamed54">https://github.com/AbdelrahmanMohamed54</a></li>
-        <li>💬 Ask me about <strong>Python, Java, HTML, CSS, React, JavaScript, Clingo ASP, Machine Learning, AI, Computer Vision </strong></li>
-        <li>📫 How to reach me: <a href="mailto:budimohamed572@gmail.com">budimohamed572@gmail.com</a></li>
+        <li>💬 Ask me about <strong>Python, GO, HTML, CSS, React, JavaScript, Quantum Computing, NLP, Machine Learning, AI, Computer Vision </strong></li>
+        <li>📫 How to reach me: <a href="mailto:abdelrahman.mohamed2505@gmail.com">abdelrahman.mohamed2505@gmail.com</a></li>
         <li>⚡ Fun fact: <strong>Why do Java developers wear glasses? Because they can't C# (C sharp) 🤣</strong></li>
       </ul>
     </td>
