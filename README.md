@@ -11,7 +11,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/AbdelrahmanMohamed54/SimAI">Sim.AI</a></li>
+        <li>🔭 I’m currently working on making<a href="https://github.com/AbdelrahmanMohamed54/Bachelor-Thesis">Sim.AI</a> publicly available.</li>
         <li>🌱 I’m currently learning <strong>NLP Specialisation course by Deeplearning.ai</strong></li>
         <li>👯 I’m looking to collaborate on <strong>projects related to AI</strong></li>
         <li>👨‍💻 My projects: <a href="https://github.com/AbdelrahmanMohamed54">https://github.com/AbdelrahmanMohamed54</a></li>
